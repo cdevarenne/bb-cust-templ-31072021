@@ -10,9 +10,9 @@ metadata:
   namespace: bigbang
 spec:
   interval: 1m
-  url: https://replace-with-your-git-repo.git
+  url: https://github.com/cdevarenne/bb-cstempl-210718.git
   ref:
-    branch: replace-with-your-branch
+    branch: bbtempl-210718
   secretRef:
     name: private-git
 ---
